@@ -1,4 +1,0 @@
-tsEventDispacher
-================
-
-TypeScript版EventDispathcer
