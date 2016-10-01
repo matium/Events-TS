@@ -1,0 +1,2 @@
+# TS-Events
+createJSのEvent+EventDispatcherクラスの設計を、TypeScriptでEventクラス・EventDispatcherクラス単体で使用／拡張できるようにTSでリライトしたパッケージ

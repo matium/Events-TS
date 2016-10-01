@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "out": "js/sample.js",
+    "rootDir": ".",
+    "target": "es5",
+    "sourceMap": true,
+    "removeComments": true,
+    "noImplicitAny": false
+  },
+  "files": [
+    "ts/sample.ts"
+  ]
+}
